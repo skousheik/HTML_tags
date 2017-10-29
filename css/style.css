@@ -1,0 +1,21 @@
+body{
+	background-color: lightyellow;
+}
+
+table{
+	border-collapse: collapse;
+	text-align: center;
+	width: 80%;
+}
+
+td{
+	border: 2px solid #2a8eb6;
+}
+
+.title{
+	background-color: #eabb97;
+}
+
+.lightgrey{
+	background-color: lightgrey;
+}
